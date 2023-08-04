@@ -11,7 +11,7 @@
 🌱 I’m currently learning **ReactJS** <br>
 💬 Ask me about **Web Development** <br>
 📩 Contact me at **sonudaryani135@gmail.com** <br>
-💼 My portfolio **https://sonu-daryani.netlify.app/** <br>
+💼 My portfolio **https://sonudaryani.netlify.app/** <br>
 ⚡ Fun fact is I'm a possessive learner.
 
 
